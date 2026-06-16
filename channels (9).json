@@ -1,0 +1,33 @@
+{
+  "bangladeshi": [
+    { "name": "BTV", "icon": "📡", "sub": "🔴 ফ্রি · সারা দেশে", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8" },
+    { "name": "Somoy TV", "icon": "📰", "sub": "🔴 লাইভ", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8" },
+    { "name": "NTV", "icon": "📺", "sub": "🔴 লাইভ", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8" },
+    { "name": "Jamuna TV", "icon": "🌊", "sub": "🔴 সংবাদ", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8" },
+    { "name": "Channel i", "icon": "📡", "sub": "🔴 বিনোদন", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8" },
+    { "name": "Deepto TV", "icon": "💡", "sub": "🔴 লাইভ", "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8" },
+    { "name": "ATN Bangla", "icon": "🎬", "sub": "🔴 বিনোদন", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8" },
+    { "name": "ATN News", "icon": "📰", "sub": "🔴 সংবাদ", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8" },
+    { "name": "T Sports HD", "icon": "🏏", "sub": "🔴 লাইভ", "url": "https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8" },
+    { "name": "T Sports HD 2", "icon": "🏏", "sub": "🔴 লাইভ", "url": "https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tsports.stream/tracks-v1a1/mono.m3u8" },
+    { "name": "Ananda TV", "icon": "🎭", "sub": "🔴 লাইভ", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8" },
+    { "name": "Asian TV", "icon": "📺", "sub": "🔴 লাইভ", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8" },
+    { "name": "Gaan Bangla", "icon": "🎵", "sub": "🔴 লাইভ", "url": "https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8" },
+    { "name": "SA TV", "icon": "📺", "sub": "🔴 লাইভ", "url": "https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.ts.m3u8" },
+    { "name": "Gtv", "icon": "⚽", "sub": "🔴 লাইভ", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8" }
+  ],
+  "sports": [
+    { "name": "Win Sports 4K", "icon": "⚽", "sub": "🔴 লাইভ", "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8" },
+    { "name": "BeIN Sports", "icon": "🏆", "sub": "🔴 720p", "url": "https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8" },
+    { "name": "BeIN Sports Español", "icon": "🏆", "sub": "🔴 লাইভ", "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8" },
+    { "name": "TYC Sports", "icon": "🇦🇷", "sub": "🔴 লাইভ", "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/8631.m3u8" },
+    { "name": "TNT Sports ARG", "icon": "🇦🇷", "sub": "🔴 লাইভ", "url": "https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8" },
+    { "name": "Caze TV", "icon": "🇧🇷", "sub": "🔴 লাইভ", "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8" },
+    { "name": "Dazn Direct", "icon": "🎯", "sub": "🔴 লাইভ", "url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8" },
+    { "name": "D Sports", "icon": "🏆", "sub": "🔴 লাইভ", "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8" },
+    { "name": "Somoy TV FIFA", "icon": "⚽", "sub": "🔴 লাইভ", "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8" },
+    { "name": "Tennis Channel", "icon": "🎾", "sub": "🔴 লাইভ", "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8" },
+    { "name": "OpenSource FHD", "icon": "🎥", "sub": "🔴 60fps", "url": "https://fhd60fps-by-opensourecflix.exmax.workers.dev/index.m3u8" },
+    { "name": "RTBGO Live", "icon": "📻", "sub": "🔴 FHD", "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8" }
+  ]
+}
